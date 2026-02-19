@@ -15,7 +15,7 @@ const productos = [
     { nombre: "Marcador permanente/indeleble grueso", marca: "Prior", precio: 3.00, categoria: "Escritura y Dibujo", imagen: "marcador-permanente-prior.png"},
     { nombre: "Marcador permanente/indeleble grueso blanco", marca: "Prior", precio: 4.5, categoria: "Escritura y Dibujo", imagen: "marcador-blanco.png"},
     //faltan marcadores de otras marcas
-    
+    { nombre: "Borador blanco", marca: "Prior", precio: 4.5, categoria: "Escritura y Dibujo", imagen: "marcador-blanco.png"},
     
 
     
@@ -60,5 +60,6 @@ const productos = [
     //correctores de otras marcas
     
 ];
+
 
 export{productos};
